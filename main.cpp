@@ -23,8 +23,8 @@ const int max_response = 3;
 
 info dataBase[] = {
     {"WHAT IS YOUR NAME",
-        {"MY NAME IS CHATTERBOT3.",
-            "YOU CAN CALL ME CHATTERBOT3.",
+        {"MY NAME IS CHATTERBOT.",
+            "YOU CAN CALL ME CHATTERBOT.",
             "WHY DO YOU WANT TO KNOW MY NAME?"}
     },
     
@@ -37,7 +37,7 @@ info dataBase[] = {
     {"HOW ARE YOU",
         {"I'M DOING FINE!",
             "I'M DOING WELL AND YOU?",
-            "WHY DO YOU WANT TO KNOW HOW AM I DOING?"}
+            "WHY DO YOU WANT TO KNOW HOW I AM DOING?"}
     },
     
     {"WHO ARE YOU",
@@ -47,15 +47,15 @@ info dataBase[] = {
     },
     
     {"ARE YOU INTELLIGENT",
-        {"YES,OFCORSE.",
+        {"YES, OFCOURSE.",
             "WHAT DO YOU THINK?",
             "ACTUALY,I'M VERY INTELLIENT!"}
     },
     
     {"ARE YOU REAL",
-        {"DOES THAT QUESTION REALLY MATERS TO YOU?",
+        {"DOES THAT QUESTION REALLY MATTER TO YOU?",
             "WHAT DO YOU MEAN BY THAT?",
-            "I'M AS REAL AS I CAN BE."}
+            "I'M AS REAL AS ONE CAN BE."}
     }
 };
 
