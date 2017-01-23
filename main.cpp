@@ -112,7 +112,7 @@ vecStr search(string input)
         string key(dataBase[i].userInput);
         if (key.find(input) != string::npos)
         {
-            getResponses(&dataBase[i].userInput,responses);
+            getResponses(dataBase[i].botResponses,responses);
             return responses;
         }
     }
